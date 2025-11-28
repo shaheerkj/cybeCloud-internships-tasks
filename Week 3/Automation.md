@@ -85,6 +85,3 @@ Both are legitimate ways to work with automation and use whichever fits your nee
 - The task won't perform any better when launched when compared to the other
 - Systemd timers require systemd to be present on the distro.
 - If project is time-sensitive, go with cronjobs.
-
-
-
